@@ -38,7 +38,7 @@ Aquí puedes encontrar una lista de mis laboratorios:
     </div> -->
     <div style="flex: 2; text-align: center;">
         <div>
-        <a href="ing_social/ejericio2.md" style="margin: 0 15px; text-decoration: none; color: white;">
+        <a href="ing_social/ejericio2.html" style="margin: 0 15px; text-decoration: none; color: white;">
         <img src='img/aguademayo.png'/>
         <span>DockerLabs:AguaDeMayo</span>
         </a>
