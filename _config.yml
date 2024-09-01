@@ -1,5 +1,5 @@
 logo: img/logo2.png
 title: IR AL HOME 
 description: Un sitio para mostrar mis WriteUps
-markdown: kramdown
+# markdown: kramdown
 # theme: jekyll-theme-slate
