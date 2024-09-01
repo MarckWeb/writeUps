@@ -23,7 +23,7 @@ Aquí puedes encontrar una lista de mis laboratorios:
     <div style="flex: 2; text-align: center;">
         <div>
         <a href="https://marckweb.github.io/writeUps/AguaDeMayo/Maquina_agua_de_mayo.html" style="margin: 0 15px; text-decoration: none; color: white;">
-        <img src='/img/aguademayo.png'/>
+        <img src='img/aguademayo.png'/>
         <span>DockerLabs:AguaDeMayo</span>
         </a>
         </div>
@@ -31,7 +31,7 @@ Aquí puedes encontrar una lista de mis laboratorios:
     <div style="flex: 2; text-align: center;">
         <div>
         <a href="https://marckweb.github.io/writeUps/AguaDeMayo/Maquina_agua_de_mayo.html" style="margin: 0 15px; text-decoration: none; color: white;">
-        <img src='/img/aguademayo.png'/>
+        <img src='img/aguademayo.png'/>
         <span>DockerLabs:AguaDeMayo</span>
         </a>
         </div>
