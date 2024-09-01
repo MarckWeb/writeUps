@@ -1,4 +1,4 @@
 title: Mis Laboratorios
 description: Un sitio para mostrar mis laboratorios
-markdown: kramdown
-theme: jekyll-theme-slate
+# markdown: kramdown
+# theme: jekyll-theme-slate
