@@ -1,7 +1,7 @@
 <!-- Cabecera HTML -->
 <div style="display: flex; background-color: black; padding: 10px; align-items: center;">
-    <div style="flex: 1;">
-        <img src="img/image-1.png" alt="Logo" style="max-height: 50px;" />
+    <div >
+        <img src="img/image-1.png" alt="Logo" style="height: 80px;" />
     </div>
     <div style="flex: 2; text-align: center;">
         <a href="https://david-cics.onrender.com/" style="margin: 0 15px; text-decoration: none; color: white;">Home</a>
