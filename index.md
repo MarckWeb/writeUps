@@ -19,7 +19,15 @@ Aquí puedes encontrar una lista de mis laboratorios:
 - [Laboratorio 3](laboratorio3.md)
 
 
-<div style="display: flex; padding: 10px; align-items: center;">
+<div style="display: flex; margin: 10px; align-items: center;">
+    <div style="flex: 2; text-align: center;">
+        <div>
+        <a href="AguaDeMayo/Maquina_agua_de_mayo.html" style="margin: 0 15px; text-decoration: none; color: white;">
+        <img src='img/aguademayo.png'/>
+        <span>DockerLabs:AguaDeMayo</span>
+        </a>
+        </div>
+    </div>
     <div style="flex: 2; text-align: center;">
         <div>
         <a href="https://marckweb.github.io/writeUps/AguaDeMayo/Maquina_agua_de_mayo.html" style="margin: 0 15px; text-decoration: none; color: white;">
@@ -30,7 +38,7 @@ Aquí puedes encontrar una lista de mis laboratorios:
     </div>
     <div style="flex: 2; text-align: center;">
         <div>
-        <a href="https://marckweb.github.io/writeUps/AguaDeMayo/Maquina_agua_de_mayo.html" style="margin: 0 15px; text-decoration: none; color: white;">
+        <a href="ing_social/ejericio2.md" style="margin: 0 15px; text-decoration: none; color: white;">
         <img src='img/aguademayo.png'/>
         <span>DockerLabs:AguaDeMayo</span>
         </a>
