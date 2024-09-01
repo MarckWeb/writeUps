@@ -1,5 +1,5 @@
 <!-- Cabecera HTML -->
-<div style="display: flex; background-color: orange; padding: 10px; align-items: center;">
+<div style="display: flex; background-color: black; padding: 10px; align-items: center;">
     <div style="flex: 1;">
         <img src="img/logo2.png" alt="Logo" style="max-height: 50px;" />
     </div>
