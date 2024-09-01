@@ -8,7 +8,6 @@
         <a href="https://david-cics.onrender.com/portfolio" style="margin: 0 15px; text-decoration: none; color: white;">Port</a>
         <a href="https://david-cics.onrender.com/about" style="margin: 0 15px; text-decoration: none; color: white;">About</a>
         <a href="https://marckweb.github.io/writeUps/AguaDeMayo/Maquina_agua_de_mayo.html" style="margin: 0 15px; text-decoration: none; color: white;">About</a>
-
     </div>
 </div>
 
